@@ -4,7 +4,6 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/Daniel/Documents/ARGENTINA%20PROGRAMA/JAVA/PRODE/Prode/src/Entidades/Equipo.java</file>
-            <file>file:/C:/Users/Daniel/Documents/ARGENTINA%20PROGRAMA/JAVA/PRODE/Prode/src/prode/Prode.java</file>
             <file>file:/C:/Users/Daniel/Documents/ARGENTINA%20PROGRAMA/JAVA/PRODE/Prode/src/Entidades/Partido.java</file>
             <file>file:/C:/Users/Daniel/Documents/ARGENTINA%20PROGRAMA/JAVA/PRODE/Prode/src/Entidades/Usuario.java</file>
             <file>file:/C:/Users/Daniel/Documents/ARGENTINA%20PROGRAMA/JAVA/PRODE/Prode/src/Servicios/PartidoServicio.java</file>
@@ -12,6 +11,7 @@
             <file>file:/C:/Users/Daniel/Documents/ARGENTINA%20PROGRAMA/JAVA/PRODE/Prode/src/Servicios/EquipoServicios.java</file>
             <file>file:/C:/Users/Daniel/Documents/ARGENTINA%20PROGRAMA/JAVA/PRODE/Prode/src/Servicios/UsuarioServicio.java</file>
             <file>file:/C:/Users/Daniel/Documents/ARGENTINA%20PROGRAMA/JAVA/PRODE/Prode/src/Entidades/Resultado.java</file>
+            <file>file:/C:/Users/Daniel/Documents/ARGENTINA%20PROGRAMA/JAVA/PRODE/Prode/src/prode/prode.java</file>
         </group>
     </open-files>
 </project-private>

@@ -2,6 +2,9 @@
 Esta clase representaría a cada partido y almacenaría 
 información sobre los equipos involucrados, la fecha y hora del juego, 
 y el resultado.
+
+
+
  */
 package Entidades;
 
@@ -15,21 +18,20 @@ public class Partido {
     private int fecha;
     private int orden;
     
-    // Un atributo Pronósticos que sea un arreglo con dimensión Cantidad de jugadores
+    private int[][] fixture;
     
     // Constructores
 
     public Partido() {
     }
 
-    public Partido(String local, String visitante, int fecha, int orden) {
+    public Partido(String local, String visitante, int fecha, int orden, int[][] fixture) {
         this.local = local;
         this.visitante = visitante;
         this.fecha = fecha;
         this.orden = orden;
+        this.fixture = fixture;
     }
-    
-    // Getter y setter
 
     public String getLocal() {
         return local;
@@ -63,8 +65,13 @@ public class Partido {
         this.orden = orden;
     }
 
+    public int[][] getFixture() {
+        return fixture;
+    }
 
-    
-    
-    
+    public void setFixture(int[][] fixture) {
+        this.fixture = fixture;
+    }
+
+       
 }

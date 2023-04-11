@@ -2,6 +2,10 @@
 Esta clase representaría a los equipos deportivos y 
 almacenaría información sobre sus jugadores, estadísticas 
 y resultados anteriores.
+
+
+ESTA CLASE TODAVÍA NO ESTÄ VINCULADA AL FIXTURE QUE SE ALMACENA EN LA CLASE PARTIDO
+HACER ESO ANTES DE ACTUALIZAR PUNTAJE DE EQUIPO
  */
 package Entidades;
 

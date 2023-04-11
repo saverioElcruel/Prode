@@ -5,33 +5,21 @@ package Entidades;
 
 public class Resultado {
     
-    private int golesLocal;
-    private int golesVisitante;
-    
-    // Constructor
+    private int resultado[][];
 
-    public Resultado(int golesLocal, int golesVisitante) {
-        this.golesLocal = golesLocal;
-        this.golesVisitante = golesVisitante;
-    }
-    
-    // Getter y setter
-
-    public int getGolesLocal() {
-        return golesLocal;
+    public Resultado() {
     }
 
-    public void setGolesLocal(int golesLocal) {
-        this.golesLocal = golesLocal;
+    public Resultado(int[][] resultado) {
+        this.resultado = resultado;
     }
 
-    public int getGolesVisitante() {
-        return golesVisitante;
+    public int[][] getResultado() {
+        return resultado;
     }
 
-    public void setGolesVisitante(int golesVisitante) {
-        this.golesVisitante = golesVisitante;
+    public void setResultado(int[][] resultado) {
+        this.resultado = resultado;
     }
-    
-    
 }
+
