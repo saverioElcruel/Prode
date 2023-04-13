@@ -1,0 +1,29 @@
+[10][0] Central Córdoba	
+[10][1] Lanús
+[10][2] Arsenal
+[10][3] Godoy Cruz
+[10][4] Tigre
+[10][5]	Sarmiento
+[10][6] Argentinos
+[10][7] Unión
+[10][8] Belgrano
+[10][9] Huracán
+[10][10] River
+[10][11] Gimnasia LP
+[10][12] Racing	
+[10][13] Newell’s
+[10][14] Rosario Central
+[10][15] Independiente
+[10][16] Estudiantes LP
+[10][17] Atlético Tucumán
+[10][18] San Lorenzo
+[10][19] Boca
+[10][20] Colón
+[10][21] Talleres
+[10][22] Barracas Central
+[10][23] Platense
+[10][24] Instituto
+[10][25] Vélez
+[10][26] Banfield
+[10][27] Defensa y Justicia 
+

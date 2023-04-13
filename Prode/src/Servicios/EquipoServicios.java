@@ -1,5 +1,6 @@
 /*
-
+    a) Un método para Llamar a fixture, iterar una fecha y cargar todos los equipos.
+    b) Un método para actualizar puntaje del equipo.
  */
 package Servicios;
 
